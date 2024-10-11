@@ -71,7 +71,7 @@ header {
 }
 
 /*Sections*/
-#section {
+.section {
   margin: 50px 100px;
   display: flex;
   flex-direction: column;
