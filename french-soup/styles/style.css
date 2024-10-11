@@ -113,7 +113,7 @@ h3 {
   padding: 0.1em;
 }
 
-/*Ingridients Lists*/
+/*Ingredients Lists*/
 ul li::before {
   content: "-";
   padding-right: 0.2em;
